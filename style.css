@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+padding:0px;
+	}
+#maindiv{
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0px;
+	
+	}
+#box{
+	width:100%;
+	height:70%;
+	margin-top:100px;
+	
+}
+#left{
+float:left;
+margin-left:25px;
+margin-top:25px;
+color:black;
+text-decoration:none;
+}
+#left:hover{
+background-color:yellow;
+text-decoration:underline;
+}
+
+
+#right{
+float:right;
+margin-right:25px;
+margin-top:25px;
+color:black;
+text-decoration:none;
+}
+#right:hover{
+background-color:yellow;
+text-decoration:underline;
+}
+
+#rightbox{
+	float:right;
+margin-top:15px;
+margin-right:15px;
+background-color:#0000CC;
+color:white;
+width:70px;
+height:40px;
+		
+	}
+	
+	
+#rightbox:hover{
+text-decoration:underline;
+}
+
+	#box2{
+	margin-top:20px;
+	width:450px;
+	height:30px;	
+		}
+		#search{
+		margin-top:20px;
+		margin-right:20px;
+		padding:10px 30px 10px 30px;
+		font-family:Verdana, Geneva, sans-serif;
+		}
+
+
+#search:hover{
+font-family:"Arial Black", Gadget, sans-serif;
+
+}
+		#footer{
+		width:100%;
+		height:12%;
+		background-color:#CCC;
+
+		
+		}
+		#box3{
+		margin-left:20px;	
+		padding-top:10px;
+		margin-bottom:0px;
+		}
+		#box4{
+	margin-top:0px;
+		float:left;
+		background-color:#CCC;
+		padding-left:20px;
+color:black;
+text-decoration:none;
+	
+		}
+		#box5{
+			margin-top:0px;
+		float:right;
+		background-color:#CCC;	
+			padding-right:20px;
+color:black;
+text-decoration:none;
+
+		
+		}
+		
+#box4:hover{
+text-decoration:underline;
+}
+		
+#box5:hover{
+text-decoration:underline;
+}
+#lang{
+text-decoration:none;
+color:blue;
+margin-left:10px;
+	
+}
+#lang:hover{
+	text-decoration:underline;
+		
+}
